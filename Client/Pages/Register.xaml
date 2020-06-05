@@ -1,0 +1,103 @@
+﻿<Page x:Class="Client.Register"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Client"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Register">
+    <Page.Resources>
+        <ResourceDictionary Source="../MainRes.xaml" />
+    </Page.Resources>
+    <Grid Background="LightGreen">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="500" />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border Background="Bisque" CornerRadius="0, 0, 2000, 0" ></Border>
+        <Border Grid.Column="2" Background="Bisque" CornerRadius="2000, 0,0 , 0" ></Border>
+        <Border Background="#FFFFBC6C" CornerRadius="0, 0, 2000, 0" Margin="0, 0, 10, 10" ></Border>
+        <Border Grid.Column="2" Background="#FFFFBC6C" CornerRadius="2000, 0,0 , 0" Margin="10, 10, 0, 0" ></Border>
+        <Border Grid.Column="1" HorizontalAlignment="Stretch" Margin="10" Background="#FF71B871" CornerRadius="10">
+            <Grid>
+            <StackPanel Margin="3">
+                <Label FontSize="30" HorizontalAlignment="Center" FontWeight="Bold" Foreground="#FFFFFFFF" >Register</Label>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        </Grid.RowDefinitions>
+                    <Label FontSize="25" FontWeight="Bold" Foreground="#FFFFFFFF" >Login</Label>
+                    <Label Grid.Row="1" FontSize="25" FontWeight="Bold" Foreground="#FFFFFFFF" >Email</Label>
+                    <Label Grid.Row="2" FontSize="25" FontWeight="Bold" Foreground="#FFFFFFFF" >Password</Label>
+                    <StackPanel Grid.Row="3">
+                        <Label  FontSize="20" FontWeight="Bold" Foreground="#FFFFFFFF" >Repeat</Label>
+                        <Label Margin="0, -5, 0, 9" FontSize="20" FontWeight="Bold" Foreground="#FFFFFFFF" >Password</Label>
+                    </StackPanel>
+                    <Border Margin="10, 10, 10, 0" 
+                        BorderBrush="Black" 
+                        BorderThickness="2"
+                        CornerRadius="5"
+                        Background="#FFE8D580"
+                        Grid.Column="1"
+                        VerticalAlignment="Center">
+                            <TextBox Margin="1"  Name="txtLogin" FontSize="25" Background="#FFE8D580" FontWeight="Bold" Foreground="#FF050074" BorderThickness="0"/>
+                    </Border>
+                    <Border Margin="10, 10, 10, 0" 
+                        BorderBrush="Black" 
+                        BorderThickness="2"
+                        CornerRadius="5"
+                        Background="#FFE8D580"
+                        Grid.Column="1"
+                        Grid.Row="1"
+                        VerticalAlignment="Center">
+                            <TextBox Margin="1"  Name="txtEmail" FontSize="25" Background="#FFE8D580" FontWeight="Bold" Foreground="#FF050074" BorderThickness="0"/>
+                     </Border>
+                     <Border Margin="10, 10, 10, 0" 
+                        BorderBrush="Black" 
+                        BorderThickness="2"
+                        CornerRadius="5"
+                        Background="#FFE8D580"
+                        Grid.Column="1"
+                        Grid.Row="2"
+                        VerticalAlignment="Center">
+                            <PasswordBox Margin="1"  Name="txtPass" FontSize="25" Background="#FFE8D580" FontWeight="Bold" Foreground="#FF050074" BorderThickness="0"/>
+                    </Border>
+                    <Border Margin="10, 10, 10, 0" 
+                        BorderBrush="Black" 
+                        BorderThickness="2"
+                        CornerRadius="5"
+                        Background="#FFE8D580"
+                        Grid.Column="1"
+                        Grid.Row="3"
+                        VerticalAlignment="Center">
+                            <PasswordBox Margin="1"  Name="txtPassR" FontSize="25" Background="#FFE8D580" FontWeight="Bold" Foreground="#FF050074" BorderThickness="0"/>
+                    </Border>
+                </Grid>
+                
+            </StackPanel>
+                <Grid VerticalAlignment="Bottom" Margin="0, 0, 0, 10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button Style="{StaticResource minBtn}"  Grid.Column="1" Click="Button_Click" FontWeight="Bold" FontSize="25" Background="#FFFF2E00" Foreground="White" >
+                        GO</Button>
+                    <Button Style="{StaticResource minBtn}" Width="70" HorizontalAlignment="Left" Margin="20, 0, 0, 0" Click="Button_Back" FontWeight="Bold" FontSize="20" Background="#FF0074FF" Foreground="White">
+                        Back</Button>
+                </Grid>
+                
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

@@ -1,0 +1,73 @@
+﻿<Page x:Class="Client.Pages.LoginedPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Client.Pages"
+      xmlns:controls="clr-namespace:Client.Controls"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LoginedPage"
+      Loaded="Page_Loaded"
+      Background="#FFB9D1EA">
+    <Page.Resources>
+        <ResourceDictionary Source="../MainRes.xaml" />
+    </Page.Resources>
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250" />
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0" Name="clmn"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="1" Grid.Row="1" Name="writeMsg">
+            
+        </Border>
+
+        <Border Background="#FF6EA5DE" Grid.Row="1" Visibility="Hidden" Name="CreateGroup">
+        </Border>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Background="#FF6EA5DE" Grid.Row="1" Name="GroupsItems">
+            <ScrollViewer.Effect>
+                <DropShadowEffect BlurRadius="30" Direction="0" RenderingBias="Quality" ShadowDepth="15" Opacity="0.6"/>
+            </ScrollViewer.Effect>
+            <StackPanel Name="ss" >
+                <!--<ControlTemplate TargetType="GroupItem">
+                <ContentPresenter
+                    ContentTemplate="{TemplateBinding ContentControl.ContentTemplate}"
+                    Content="{TemplateBinding ContentControl.Content} " />
+            </ControlTemplate>-->
+            </StackPanel>
+        </ScrollViewer>
+        <Grid Grid.ColumnSpan="3">
+            <StackPanel Background="#FF234F7C" Orientation="Horizontal" >
+                <Border Margin="10, 0, 0, 0" VerticalAlignment="Center" Background="#FF6EA5DE"  CornerRadius="10" Style="{StaticResource groupStyle}">
+                    <Button Click="Create_Group" Style="{StaticResource minBtn}" >
+                        <Label Foreground="White" FontSize="14" Padding="7, 1, 7, 1" VerticalContentAlignment="Center" >Create Group</Label>
+                    </Button>
+                </Border>
+
+            </StackPanel>
+
+            <Border Margin="0, 0, 10, 0" VerticalAlignment="Center" HorizontalAlignment="Right" Background="#FFDE6E6E" CornerRadius="10" Style="{StaticResource exitStyle}">
+                <Button Click="Button_Click" Style="{StaticResource minBtn}" >
+                    <Label Foreground="White" FontSize="14" Padding="7, 1, 7, 1" VerticalContentAlignment="Center">Exit</Label>
+                </Button>
+            </Border>
+        </Grid>
+
+        
+        
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Background="#FF6EA5DE" Grid.Row="1" Grid.Column="2">
+            <ScrollViewer.Effect>
+                <DropShadowEffect BlurRadius="30" Direction="0" RenderingBias="Quality" ShadowDepth="15" Opacity="0.6"/>
+            </ScrollViewer.Effect>
+            <StackPanel Name="users" >
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

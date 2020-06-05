@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="Client.Controls.GroupWrite"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+              xmlns:gif="http://wpfanimatedgif.codeplex.com"
+             xmlns:local="clr-namespace:Client.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <ResourceDictionary Source="../MainRes.xaml" />
+    </UserControl.Resources>
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.4*" MaxWidth="300" Name="ComminShtorka"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Background="#FF234F7C" Grid.Column="1" >
+            <Grid Name="mainMain">
+                <StackPanel Name="mainItems">
+                    
+                    
+                </StackPanel>
+            </Grid>
+        </Border>
+        
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Name="MsgScrolls" ScrollChanged="MsgScrolls_ScrollChanged" >
+            <StackPanel  Name="msges">
+                <Border Height="60"></Border>
+            </StackPanel>
+        </ScrollViewer>
+        <!--Background="#FF363131"-->
+        <Border Name="plashkaLoading" Height="0" MinWidth="300" HorizontalAlignment="Center" CornerRadius="0, 0, 100, 100" VerticalAlignment="Top" >
+            <Border.Background>
+
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="-71.03" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop x:Name="GradientStop1" Color="#FF363131" Offset="0" />
+                    <GradientStop x:Name="GradientStop2" Color="#FF049151" Offset="0"/>
+                    <GradientStop x:Name="GradientStop3" Color="#FF363131" Offset="0"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Border.Triggers>
+                <EventTrigger  RoutedEvent="Loaded" >
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard Name="anim" Completed="Storyboard_Completed">
+                                <DoubleAnimation 
+                                Storyboard.TargetName="GradientStop1"
+                                Storyboard.TargetProperty="Offset"
+                                From="0" To="0.615" Duration="0:0:1.5"
+                                AutoReverse="True" >
+                                    <DoubleAnimation.EasingFunction>
+                                        <QuinticEase EasingMode="EaseInOut"/>
+                                    </DoubleAnimation.EasingFunction>
+                                </DoubleAnimation>
+                                <DoubleAnimation 
+                                Storyboard.TargetName="GradientStop2"
+                                Storyboard.TargetProperty="Offset"
+                                From="0" To="0.809" Duration="0:0:1.5"
+                                AutoReverse="True" >
+                                    <DoubleAnimation.EasingFunction>
+                                        <QuinticEase EasingMode="EaseInOut"/>
+                                    </DoubleAnimation.EasingFunction>
+                                </DoubleAnimation>
+                                <DoubleAnimation 
+                                Storyboard.TargetName="GradientStop3"
+                                Storyboard.TargetProperty="Offset"
+                                From="0" To="1" Duration="0:0:1.5"
+                                AutoReverse="True" >
+                                    <DoubleAnimation.EasingFunction>
+                                        <QuinticEase EasingMode="EaseInOut"/>
+                                    </DoubleAnimation.EasingFunction>
+                                </DoubleAnimation>
+                                <!--<ColorAnimation 
+                                    Storyboard.TargetName="GradientStop2"
+                                    Storyboard.TargetProperty="Color"
+                                    From="Purple" To="Yellow" 
+                                    Duration="0:0:1.5"
+                                    AutoReverse="True"
+                                    BeginTime="0:0:3" />
+                                <ColorAnimation 
+                                    Storyboard.TargetName="GradientStop3"
+                                    Storyboard.TargetProperty="Color" 
+                                    Duration="0:0:1.5" 
+                                    AutoReverse="True"
+                                    BeginTime="0:0:6"/>-->
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Border.Triggers>
+            <Label FontWeight="Bold" FontSize="20" Foreground="Wheat" HorizontalAlignment="Center" >Loading...</Label>
+        </Border>
+       
+
+        <Grid Grid.Row="2" Margin="0, 0, 0, 10" VerticalAlignment="Bottom" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="0.2*"/>
+            </Grid.ColumnDefinitions>
+            <!--<Border  BorderThickness="0" Background="#FF234F7C" CornerRadius="1000, 0, 0, 0"/>-->
+
+            <Border BorderThickness="0" Grid.Column="1" Background="#FF234F7C" CornerRadius="5">
+                <!--<Border.Effect>
+                    <DropShadowEffect  BlurRadius="20" Direction="-45" RenderingBias="Quality" ShadowDepth="3" Opacity="0.6"/>
+                </Border.Effect>-->
+                <Grid Margin="5" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Border Padding="5" Background="White" CornerRadius="5" >
+                        <TextBox FontSize="20" Background="#00000000" BorderThickness="0" Name="msg" KeyUp="Msg_KeyUp" ></TextBox>
+                    </Border>
+                    <Border  Grid.Column="1" Margin="10, 0, 0, 0"  Background="#FF6EA5DE"  CornerRadius="10" Style="{StaticResource groupStyle}">
+                        <Button Click="SendMsg" Style="{StaticResource minBtn}" >
+                            <Label Foreground="White" FontSize="20" Padding="7, 1, 7, 1" VerticalContentAlignment="Center" >Send</Label>
+                        </Button>
+                    </Border>
+                </Grid>
+            </Border>
+
+            <!--<Border  BorderThickness="0" Grid.Column="2" Background="#FF234F7C" CornerRadius="0, 1000, 0, 0"/>-->
+
+        </Grid>
+
+        <!--<MediaElement Name="myGif" MediaEnded="myGif_MediaEnded" UnloadedBehavior="Manual"     Source="..\Resoures\Images\Loading.gif" LoadedBehavior="Play" Stretch="None"/>-->
+    </Grid>
+</UserControl>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e2779109-b4fe-4465-8450-4bff8eec1b49" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8100/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item4.xsd" MetadataType="Schema" ID="6df07a71-0484-45bb-896c-87143156e37d" SourceId="1" SourceUrl="http://localhost:8100/?xsd=xsd1" />
+    <MetadataFile FileName="item41.xsd" MetadataType="Schema" ID="34e7a26d-a25c-4717-8707-7ea4475351ff" SourceId="1" SourceUrl="http://localhost:8100/?xsd=xsd0" />
+    <MetadataFile FileName="item1.disco" MetadataType="Disco" ID="3adb6cb2-72a3-4fd8-814e-0ae35687556b" SourceId="1" SourceUrl="http://localhost:8100/?disco" />
+    <MetadataFile FileName="item42.xsd" MetadataType="Schema" ID="7460c022-50af-47c5-82ab-bb2ddd6d336f" SourceId="1" SourceUrl="http://localhost:8100/?xsd=xsd2" />
+    <MetadataFile FileName="item43.xsd" MetadataType="Schema" ID="093fa689-f99f-47dc-80e7-22af7f6a08fc" SourceId="1" SourceUrl="http://localhost:8100/?xsd=xsd3" />
+    <MetadataFile FileName="ChatService1.wsdl" MetadataType="Wsdl" ID="1b4676e8-f523-44ba-8d61-ecbdd232270e" SourceId="1" SourceUrl="http://localhost:8100/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

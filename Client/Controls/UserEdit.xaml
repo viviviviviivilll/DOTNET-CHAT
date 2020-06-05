@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="Client.Controls.UserEdit"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Client.Controls"
+             mc:Ignorable="d" d:DesignWidth="292" >
+    <Border Margin="10" Padding="5,2,5,2" Background="#FFB3D3F3" CornerRadius="5" >
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="20" Direction="-45" RenderingBias="Quality" ShadowDepth="3" Opacity="0.6"/>
+        </Border.Effect>
+        <Button HorizontalContentAlignment="Stretch" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Margin="10, 0, 0, 0"  Name="usrName" VerticalAlignment="Center" Padding="-5" FontSize="14" Foreground="#FF1E4AA8">
+                    
+                </Label>
+                <Ellipse Grid.Column="1" Width="10" Height="10" Margin="5" Fill="#FFF08989" Name="onl" >
+                    <Ellipse.Effect>
+                        <DropShadowEffect BlurRadius="20" Direction="-45" RenderingBias="Quality" ShadowDepth="0" Opacity="1"/>
+                    </Ellipse.Effect>
+                </Ellipse>
+                <Border Grid.Column="2" HorizontalAlignment="Right" Margin="4, 1, 2, 1" Background="#FFDE6E6E" Padding="6, 0, 6, 0" CornerRadius="10" Style="{DynamicResource exitStyle}" Name="contrlRemove" Visibility="Hidden" >
+                    <Button Click="RemoveUserFromGroup" Style="{StaticResource minBtn}" >
+                        <Label FontWeight="Bold" Padding="0, -5, 0, -5" Foreground="White" >X</Label>
+                    </Button>
+                </Border>
+            </Grid>
+        </Button>
+    </Border>
+</UserControl>

@@ -1,0 +1,306 @@
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Server.exe.config
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Server.exe
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Server.pdb
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Dapper.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Dapper.xml
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\obj\Debug\Server.exe
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\obj\Debug\Server.pdb
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Server.exe.config
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Server.exe
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Server.pdb
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Dapper.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Microsoft.Build.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\System.IO.Compression.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Dapper.xml
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.exe
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.pdb
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Clases\Base\BaseQuery.sql
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Microsoft.Build.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\System.IO.Compression.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\user.STEP.012\Desktop\WCFChat\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\EntityFramework.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\EntityFramework.xml
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Firto\Desktop\WCFChat\Server\bin\Debug\Base\BaseQuery.sql
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.Migrations.FirstMigrotion.resources
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.Migrations._2Migrotion.resources
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.Migrations._3Migrtiooon.resources
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Base\BaseQuery.sql
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Server.exe.config
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Server.exe
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Server.pdb
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Dapper.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\EntityFramework.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Microsoft.Build.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\System.IO.Compression.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\Dapper.xml
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\EntityFramework.xml
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.Migrations.FirstMigrotion.resources
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.Migrations._2Migrotion.resources
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.Migrations._3Migrtiooon.resources
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.exe
+C:\Users\user.STEP.013\WCFChat\Server\obj\Debug\Server.pdb
+D:\WCFChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\WCFChat\Server\obj\Debug\Server.Migrations.FirstMigrotion.resources
+D:\WCFChat\Server\obj\Debug\Server.Migrations._2Migrotion.resources
+D:\WCFChat\Server\obj\Debug\Server.Migrations._3Migrtiooon.resources
+D:\WCFChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\WCFChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\WCFChat\Server\obj\Debug\Server.exe
+D:\WCFChat\Server\obj\Debug\Server.pdb
+D:\WCFChat\Server\bin\Debug\Base\BaseQuery.sql
+D:\WCFChat\Server\bin\Debug\Server.exe.config
+D:\WCFChat\Server\bin\Debug\Server.exe
+D:\WCFChat\Server\bin\Debug\Server.pdb
+D:\WCFChat\Server\bin\Debug\Dapper.dll
+D:\WCFChat\Server\bin\Debug\EntityFramework.dll
+D:\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\WCFChat\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WCFChat\Server\bin\Debug\Microsoft.Build.dll
+D:\WCFChat\Server\bin\Debug\Microsoft.Build.Framework.dll
+D:\WCFChat\Server\bin\Debug\System.Collections.Immutable.dll
+D:\WCFChat\Server\bin\Debug\System.IO.Compression.dll
+D:\WCFChat\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WCFChat\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WCFChat\Server\bin\Debug\Dapper.xml
+D:\WCFChat\Server\bin\Debug\EntityFramework.xml
+D:\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\WCFChat\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\de\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\en\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\es\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\it\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\WCFChat\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\WCFChat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Firto\Desktop\WCFChat\Server\obj\Debug\Server.Migrations.Friend.resources
+D:\New folder (3)\WCFChat\Server\bin\Debug\Base\BaseQuery.sql
+D:\New folder (3)\WCFChat\Server\bin\Debug\Server.exe.config
+D:\New folder (3)\WCFChat\Server\bin\Debug\Server.exe
+D:\New folder (3)\WCFChat\Server\bin\Debug\Server.pdb
+D:\New folder (3)\WCFChat\Server\bin\Debug\Dapper.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\EntityFramework.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\Microsoft.Build.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\Microsoft.Build.Framework.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\System.Collections.Immutable.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\System.IO.Compression.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\Dapper.xml
+D:\New folder (3)\WCFChat\Server\bin\Debug\EntityFramework.xml
+D:\New folder (3)\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (3)\WCFChat\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\de\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\en\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\es\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\it\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.Migrations.FirstMigrotion.resources
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.Migrations._2Migrotion.resources
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.Migrations._3Migrtiooon.resources
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.Migrations.Friend.resources
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.exe
+D:\New folder (3)\WCFChat\Server\obj\Debug\Server.pdb
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Base\BaseQuery.sql
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Server.exe.config
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Server.exe
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Server.pdb
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Dapper.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\EntityFramework.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Microsoft.Build.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\System.IO.Compression.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\Dapper.xml
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\EntityFramework.xml
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.Migrations.FirstMigrotion.resources
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.Migrations._2Migrotion.resources
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.Migrations._3Migrtiooon.resources
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.Migrations.Friend.resources
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.exe
+C:\Users\Firto\Desctop\WCFChat_2\Server\obj\Debug\Server.pdb
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Base\BaseQuery.sql
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Server.exe.config
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Server.exe
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Server.pdb
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Dapper.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\EntityFramework.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Microsoft.Build.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Microsoft.Build.Framework.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\System.Collections.Immutable.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\System.IO.Compression.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\Dapper.xml
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\EntityFramework.xml
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\de\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\en\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\es\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\it\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.Migrations.FirstMigrotion.resources
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.Migrations._2Migrotion.resources
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.Migrations._3Migrtiooon.resources
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.Migrations.Friend.resources
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.csproj.CopyComplete
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.exe
+D:\New folder (3)\WCFChat_2\Server\obj\Debug\Server.pdb
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Base\BaseQuery.sql
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Server.exe.config
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Server.exe
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Server.pdb
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Dapper.dll
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\EntityFramework.dll
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\Dapper.xml
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\EntityFramework.xml
+C:\Users\HP\Source\Repos\WCFChat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Source\Repos\WCFChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\WCFChat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\HP\Source\Repos\WCFChat\Server\obj\Debug\Server.exe
+C:\Users\HP\Source\Repos\WCFChat\Server\obj\Debug\Server.pdb
+C:\Users\HP\Source\Repos\WCFChat\Server\obj\Debug\Server.Migrations.init.resources
+C:\Users\HP\Source\Repos\WCFChat\Server\obj\Debug\Server.csproj.GenerateResource.cache

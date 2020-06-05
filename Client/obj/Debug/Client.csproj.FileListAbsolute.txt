@@ -1,0 +1,238 @@
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Login.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\App.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\bin\Debug\Client.exe.config
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\bin\Debug\Client.exe
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\bin\Debug\Client.pdb
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Login.baml
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\MainWindow.baml
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.g.resources
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.exe
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.pdb
+C:\Users\Firto\Desktop\WCFChat\Client\bin\Debug\Client.exe.config
+C:\Users\Firto\Desktop\WCFChat\Client\bin\Debug\Client.exe
+C:\Users\Firto\Desktop\WCFChat\Client\bin\Debug\Client.pdb
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\App.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\MainWindow.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.g.resources
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.exe
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Client.pdb
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Register.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\Register.baml
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\App.baml
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\MainRes.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\App.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\MainRes.baml
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\GroupItem.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\LoginedPage.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\GroupItem.baml
+C:\Users\user.STEP.012\Desktop\WCFChat\Client\obj\Debug\LoginedPage.baml
+D:\WCFChat\Client\bin\Debug\Client.exe.config
+D:\WCFChat\Client\bin\Debug\Client.exe
+D:\WCFChat\Client\bin\Debug\Client.pdb
+D:\WCFChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\WCFChat\Client\obj\Debug\GroupItem.g.cs
+D:\WCFChat\Client\obj\Debug\Login.g.cs
+D:\WCFChat\Client\obj\Debug\LoginedPage.g.cs
+D:\WCFChat\Client\obj\Debug\MainWindow.g.cs
+D:\WCFChat\Client\obj\Debug\Register.g.cs
+D:\WCFChat\Client\obj\Debug\App.g.cs
+D:\WCFChat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\WCFChat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\WCFChat\Client\obj\Debug\App.baml
+D:\WCFChat\Client\obj\Debug\GroupItem.baml
+D:\WCFChat\Client\obj\Debug\Login.baml
+D:\WCFChat\Client\obj\Debug\LoginedPage.baml
+D:\WCFChat\Client\obj\Debug\MainRes.baml
+D:\WCFChat\Client\obj\Debug\MainWindow.baml
+D:\WCFChat\Client\obj\Debug\Register.baml
+D:\WCFChat\Client\obj\Debug\Client.g.resources
+D:\WCFChat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\WCFChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\WCFChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\WCFChat\Client\obj\Debug\Client.exe
+D:\WCFChat\Client\obj\Debug\Client.pdb
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\GroupItem.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Pages\Login.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Pages\LoginedPage.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Pages\Register.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\GroupItem.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Pages\Login.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Pages\LoginedPage.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Pages\Register.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\GroupCreateItem.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\GroupCreateItem.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\CCheckUserItem.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\CCheckBox.g.cs
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\CCheckUserItem.baml
+C:\Users\Firto\Desktop\WCFChat\Client\obj\Debug\Controls\CCheckBox.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\CCheckUserItem.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupCreateItem.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupItem.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\CCheckBox.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Pages\Login.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Pages\LoginedPage.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\MainWindow.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Pages\Register.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\App.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client.exe
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client.pdb
+D:\New folder (3)\WCFChat\Client\bin\Debug\Client.exe.config
+D:\New folder (3)\WCFChat\Client\bin\Debug\Client.exe
+D:\New folder (3)\WCFChat\Client\bin\Debug\Client.pdb
+D:\New folder (3)\WCFChat\Client\obj\Debug\App.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\CCheckUserItem.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupCreateItem.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupItem.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\CCheckBox.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Pages\Login.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Pages\LoginedPage.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\MainRes.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\MainWindow.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Pages\Register.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client.g.resources
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\New folder (3)\WCFChat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupWrite.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupWrite.baml
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupMessage.g.cs
+D:\New folder (3)\WCFChat\Client\obj\Debug\Controls\GroupMessage.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\CCheckUserItem.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupCreateItem.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupItem.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\CCheckBox.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupMessage.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupWrite.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Pages\Login.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Pages\LoginedPage.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Pages\Register.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\App.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.exe
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.pdb
+C:\Users\Firto\Desctop\WCFChat_2\Client\bin\Debug\Client.exe.config
+C:\Users\Firto\Desctop\WCFChat_2\Client\bin\Debug\Client.exe
+C:\Users\Firto\Desctop\WCFChat_2\Client\bin\Debug\Client.pdb
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\App.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\CCheckUserItem.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupCreateItem.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupItem.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\CCheckBox.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupMessage.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupWrite.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Pages\Login.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Pages\LoginedPage.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\MainRes.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\MainWindow.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Pages\Register.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.g.resources
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder (3)\WCFChat_2\Client\bin\Debug\Client.exe.config
+D:\New folder (3)\WCFChat_2\Client\bin\Debug\Client.exe
+D:\New folder (3)\WCFChat_2\Client\bin\Debug\Client.pdb
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\CCheckUserItem.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupCreateItem.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupItem.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\CCheckBox.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupMessage.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupWrite.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Pages\Login.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Pages\LoginedPage.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\MainWindow.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Pages\Register.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\App.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client_MarkupCompile.cache
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client_MarkupCompile.lref
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\App.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\CCheckUserItem.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupCreateItem.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupItem.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\CCheckBox.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupMessage.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupWrite.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Pages\Login.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Pages\LoginedPage.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\MainRes.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\MainWindow.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Pages\Register.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.g.resources
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.Properties.Resources.resources
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.exe
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.pdb
+D:\New folder (3)\WCFChat_2\Client\bin\Debug\WpfAnimatedGif.dll
+D:\New folder (3)\WCFChat_2\Client\bin\Debug\WpfAnimatedGif.xml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.csproj.CopyComplete
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupMessageMini.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\GroupMessageMini.baml
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupMessageMini.g.cs
+D:\New folder (3)\WCFChat_2\Client\obj\Debug\Controls\GroupMessageMini.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\HiddenItem.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\HiddenItem.baml
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\UserEdit.g.cs
+C:\Users\Firto\Desctop\WCFChat_2\Client\obj\Debug\Controls\UserEdit.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\bin\Debug\Client.exe.config
+C:\Users\HP\Source\Repos\WCFChat\Client\bin\Debug\Client.exe
+C:\Users\HP\Source\Repos\WCFChat\Client\bin\Debug\Client.pdb
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\CCheckUserItem.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupCreateItem.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupItem.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\CCheckBox.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupMessageMini.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupMessage.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupWrite.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\HiddenItem.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\UserEdit.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Pages\Login.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Pages\LoginedPage.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Pages\Register.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\App.g.cs
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\App.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\CCheckUserItem.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupCreateItem.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupItem.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\CCheckBox.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupMessageMini.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupMessage.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\GroupWrite.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\HiddenItem.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Controls\UserEdit.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Pages\Login.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Pages\LoginedPage.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\MainRes.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\MainWindow.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Pages\Register.baml
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client.g.resources
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client.exe
+C:\Users\HP\Source\Repos\WCFChat\Client\obj\Debug\Client.pdb

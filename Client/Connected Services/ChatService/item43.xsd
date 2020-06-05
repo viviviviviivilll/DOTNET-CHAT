@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Server.Base.Tables" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Server.Base.Tables" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfRUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RUser" nillable="true" type="tns:RUser" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRUser" nillable="true" type="tns:ArrayOfRUser" />
+  <xs:complexType name="RUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Blocked" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="LastActivity" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Login" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Online" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RUser" nillable="true" type="tns:RUser" />
+  <xs:complexType name="RGroupMessage">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Deleted" type="xs:boolean" />
+      <xs:element minOccurs="0" name="GroupID" type="xs:int" />
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="MessageSource" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RGroupMessage" nillable="true" type="tns:RGroupMessage" />
+  <xs:complexType name="ArrayOfRMUserInGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RMUserInGroup" nillable="true" type="tns:RMUserInGroup" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRMUserInGroup" nillable="true" type="tns:ArrayOfRMUserInGroup" />
+  <xs:complexType name="RMUserInGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FriendID" type="xs:int" />
+      <xs:element minOccurs="0" name="Group" nillable="true" type="tns:RGroup" />
+      <xs:element minOccurs="0" name="Muted" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Role" nillable="true" type="tns:RRole" />
+      <xs:element minOccurs="0" name="User" nillable="true" type="tns:RUser" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RMUserInGroup" nillable="true" type="tns:RMUserInGroup" />
+  <xs:complexType name="RGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Deleted" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RGroup" nillable="true" type="tns:RGroup" />
+  <xs:complexType name="RRole">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RRole" nillable="true" type="tns:RRole" />
+</xs:schema>
